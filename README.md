@@ -58,5 +58,7 @@ This prototype uses the FastMCP library and GPT4ALL local LLM. An example API is
     ```
     Query: What is a MCP server?
     Response:
-    A MCP (Master Control Program) Server, also known as an MCS (Master Control System), is a type of software that manages and controls various devices or systems in a network. It acts as the central hub for monitoring, controlling, and coordinating the
+    A great question!
+
+    In the context of Large Language Models (LLMs) and their deployment, an MCP (Model Control Protocol) server plays a crucial role in managing and controlling the interactions between multiple models, users, or applications.
     ```
